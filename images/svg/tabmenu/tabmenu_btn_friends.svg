@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>tabmenu_btn_friends</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="190404_프레임개선-가이드" transform="translate(-198.000000, -607.000000)" fill="#343740">
+            <g id="TAB" transform="translate(181.000000, 423.000000)">
+                <g id="tab_on" transform="translate(1.000000, 144.000000)">
+                    <g id="tabmenu_btn_friend" transform="translate(15.000000, 40.000000)">
+                        <g id="ico_friends" transform="translate(0.472500, 0.000000)">
+                            <path d="M27.5775,27 C27.5775,21.5849901 23.5578089,19 17.0680543,19 C10.5971911,19 6.5775,21.5849901 6.5775,27" id="Stroke-3"></path>
+                            <circle id="Oval-2" cx="17.0275" cy="11.5" r="5.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
